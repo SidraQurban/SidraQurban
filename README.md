@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SidraQurban" alt="SidraQurban" /></a> </p>
 
-- 🌱 I’m currently working on [Newscaster](https://github.com/SidraQurban/Newscaster)
-
 - 📫 How to reach me **sidraqurban77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
