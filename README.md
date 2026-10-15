@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sidra Qurban</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SidraQurban" alt="SidraQurban" />
-  </a>
-</p>
-
 - 📫 How to reach me **sidraqurban77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
